@@ -3,7 +3,7 @@ package Day10;
 public class Box {
 	
 	
-	private int width;
+	private int width;//added
 	private int depth;
 	private int height;
 	
